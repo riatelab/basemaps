@@ -1,0 +1,21 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>TN_other_projected</Name>
+    <ElementPath>TN_other_projected</ElementPath>
+    <!--MULTIPOLYGON-->
+    <GeometryType>6</GeometryType>
+    <SRSName>EPSG:22332</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>22</FeatureCount>
+      <ExtentXMin>349202.10814</ExtentXMin>
+      <ExtentXMax>752853.32788</ExtentXMax>
+      <ExtentYMin>3360637.83337</ExtentYMin>
+      <ExtentYMax>4116735.36028</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>id</Name>
+      <ElementPath>id</ElementPath>
+      <Type>Integer</Type>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>
